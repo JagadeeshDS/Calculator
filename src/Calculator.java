@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//test purpose
 public class Calculator {
 		static double a,b,result;
 		static String operation;
